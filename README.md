@@ -1,6 +1,7 @@
-### Hi there 👋
-
+[![mchardin's 42 stats](https://badge42.vercel.app/api/v2/cl5ryseae006809mcpqlyry45/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 <!--
+
+
 **Mazoise/Mazoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
