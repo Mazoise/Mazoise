@@ -1,6 +1,11 @@
-[![mchardin's 42 stats](https://badge42.vercel.app/api/v2/cl5ryseae006809mcpqlyry45/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-<!--
+[![mchardin's 42 stats](https://badge42.vercel.app/api/v2/cl5ryseae006809mcpqlyry45/stats?cursusId=21&coalitionId=46)](https://profile.intra.42.fr/users/mchardin)
 
+<a href="https://www.codingame.com/profile/cfb72a7fdd966774b5f9bb136737fec90859363"><img width="200" src="https://img.shields.io/badge/Codingame-000000?logo=codingame&logoColor=F2BB13&color=F2BB13&labelColor=000000&style=for-the-badge&?logoWidth=2000" /></a>
+<!--
+[![](https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/512px-CodinGame_Logo.svg.png?20160726213433)](https://www.codingame.com/profile/cfb72a7fdd966774b5f9bb136737fec90859363)
+
+
+<a href="https://www.codingame.com/profile/cfb72a7fdd966774b5f9bb136737fec90859363"><img height="200" width="300" fill="%23F2BB13" src="https://unpkg.com/simple-icons@v7/icons/codingame.svg" /></a>
 
 **Mazoise/Mazoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
